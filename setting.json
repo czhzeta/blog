@@ -6,13 +6,13 @@
     "logo_img": "https://cdn.luogu.com.cn/upload/image_hosting/sw9s8qac.png",
     "logo_text_1": "webczh",
     "logo_text_2": "top",
-    "github": "wuhobin",
-    "qq": "1289066006",
-    "email": "1289066006@qq.com",
-    "bilibili": "495003013",
-    "facebook": "bottom_user",
+    "github": "czhzeta",
+    "qq": "3361644228",
+    "email": "chenczhcn@outlook.com",
+    "bilibili": "49500301ds3",
+    "facebook": "damn!",
     "link_1": [
-        "http://blog.wuhobin.top/",
+        "http://www.cnblogs.com/czhzeta",
         "fa-solid fa-blog",
         "博客"
     ],
@@ -22,25 +22,25 @@
         "统计"
     ],
     "link_3": [
-        "http://www.wuhobin.top/",
+        "http://待开发/",
         "fa-solid fa-compass",
         "起始页"
     ],
     "link_4": [
-        "https://codenote.wuhobin.top",
+        "https://待开发",
         "fa-solid fa-book-bookmark",
         "编程宝典"
     ],
     "link_5": [
-        "http://www.wuhobin.top/",
+        "http://待开发",
         "fa-solid fa-flask",
         "开发中..."
     ],
     "link_6": [
-        "http://www.wuhobin.top/",
+        "http://待开发",
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "Aurora",
-    "beian": "鄂ICP备20006685号"
+    "Copyright_text": "czH",
+    "beian": "粤ICP备20006685号"
 }
